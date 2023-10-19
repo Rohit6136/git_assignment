@@ -1,0 +1,5 @@
+# Ignore a specific text file
+log.txt
+
+# Ignore a specific direct
+dir1/
